@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Food
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2ebfd4c4f8f637c459519fb79e9d67cd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f9039500fe69c174f8e81fb8a25dfc2e: 21300000
+    - 37e89141c2f2c03458b7aebdd3f0303c: 21300000
+    - a0dee5d1a4aadcc4890526e72563fee0: 21300000
+    - a026b852b78fc1c458fcb0006ddbae4a: 21300000
+    - 3ee1f2620a73b7e42b8646b48c0b6121: 21300000
+    - 0ffd5e6261cef4849a6df762fea430af: 21300000
+    - c4726173d2654c343b5a8878b5bbf106: 21300000
+    - 1a713b93a718bf94d85749b926d0b503: 21300000
+    - 82e9c8d57f9746b4fb48a23e50b50eca: 21300000
+    - fbb95cf51114a0d4f8eac130a967cd97: 21300000
+    - 2a7b26e6a8da75d43bd26942bede2a8d: 21300000
+    - 17ca45f750ee5d54f8f97ede40e27942: 21300000
+    - c1888e2827df7c7499111a655cb6f927: 21300000
+    - c38313d8fe3654349a424d3d6d73fe41: 21300000
+    - 1117ee1ac0da3c54c96e1535f2d934c9: 21300000
+    - caed376a7d8490b449c8309442ac046e: 21300000
+    - a6171e6bae45e3341b5cb7ee74889409: 21300000
+    - 7390c01dd1ae4644c98bd3edc25719b7: 21300000
+    - 8c48d7adb7edbd7468d4a7d42fda90e7: 21300000
+    - f25005ffb59593145845c708053b668e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f9039500fe69c174f8e81fb8a25dfc2e, type: 3}
+  - {fileID: 21300000, guid: 37e89141c2f2c03458b7aebdd3f0303c, type: 3}
+  - {fileID: 21300000, guid: a0dee5d1a4aadcc4890526e72563fee0, type: 3}
+  - {fileID: 21300000, guid: a026b852b78fc1c458fcb0006ddbae4a, type: 3}
+  - {fileID: 21300000, guid: 3ee1f2620a73b7e42b8646b48c0b6121, type: 3}
+  - {fileID: 21300000, guid: 0ffd5e6261cef4849a6df762fea430af, type: 3}
+  - {fileID: 21300000, guid: c4726173d2654c343b5a8878b5bbf106, type: 3}
+  - {fileID: 21300000, guid: 1a713b93a718bf94d85749b926d0b503, type: 3}
+  - {fileID: 21300000, guid: 82e9c8d57f9746b4fb48a23e50b50eca, type: 3}
+  - {fileID: 21300000, guid: fbb95cf51114a0d4f8eac130a967cd97, type: 3}
+  - {fileID: 21300000, guid: 2a7b26e6a8da75d43bd26942bede2a8d, type: 3}
+  - {fileID: 21300000, guid: 17ca45f750ee5d54f8f97ede40e27942, type: 3}
+  - {fileID: 21300000, guid: c1888e2827df7c7499111a655cb6f927, type: 3}
+  - {fileID: 21300000, guid: c38313d8fe3654349a424d3d6d73fe41, type: 3}
+  - {fileID: 21300000, guid: 1117ee1ac0da3c54c96e1535f2d934c9, type: 3}
+  - {fileID: 21300000, guid: caed376a7d8490b449c8309442ac046e, type: 3}
+  - {fileID: 21300000, guid: a6171e6bae45e3341b5cb7ee74889409, type: 3}
+  - {fileID: 21300000, guid: 7390c01dd1ae4644c98bd3edc25719b7, type: 3}
+  - {fileID: 21300000, guid: 8c48d7adb7edbd7468d4a7d42fda90e7, type: 3}
+  - {fileID: 21300000, guid: f25005ffb59593145845c708053b668e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PaperToilet 1
+  - PaperToilet
+  - Pepsi
+  - Snack
+  - Cup 1
+  - Clock 1
+  - Yars
+  - Donut 1
+  - Cookie 1
+  - Donut
+  - Snack 1
+  - Yars 1
+  - TennisBall
+  - Pepsi 1
+  - Cookie
+  - Cup
+  - Clock
+  - GiftBox
+  - GiftBox 1
+  - TennisBall 1
+  m_RenderDataMap: {}
+  m_Tag: Food
+  m_IsVariant: 0

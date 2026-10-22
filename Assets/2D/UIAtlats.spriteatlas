@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlats
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3ce28eee531f6f14c806b2fecac91f6c, type: 3}
+    - {fileID: 102900000, guid: ed5ae03bd42d7c14ebee18b382efd8d1, type: 3}
+    - {fileID: 102900000, guid: 760c6f1ed9d92774590489c4adcfa280, type: 3}
+    - {fileID: 102900000, guid: 33485796c295eda499e73b5e0c76ace5, type: 3}
+    - {fileID: 102900000, guid: f99ff067241983f49ae2c8822838b26d, type: 3}
+    - {fileID: 102900000, guid: f74619d2dfd32da4f8b38c5fc912ecd8, type: 3}
+    - {fileID: 102900000, guid: 87706efbfaaf9974792db069639b0e5e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - e4338bc0e2a841642ab00d01e2bf0dd9: 21300000
+    - 21b17ac24bb871741a8d541bd08b5348: 21300000
+    - 09f2bb63ff112644882fd855e05239a0: 21300000
+    - 5596108346d953546a89cbccab5c20fe: 21300000
+    - afa919c3de8607548a011cfda596d70b: 21300000
+    - 15cbcf04d259c6e4a9041227045885fa: 21300000
+    - 9a8a0f656da9d024184b0f5a5227f8e2: 21300000
+    - 8836e1760a9e1c2499b8e8fc169f231e: 21300000
+    - 9df058a60bae4c648bdc51ac03c8b096: 21300000
+    - a3f1c6d6bc1bbbd4b952942b9c1de392: 21300000
+    - 8cbe6a978c1555e42969d3804b022500: 21300000
+    - 6e953db78c47d4f47a6eb083b10b51ff: 21300000
+    - 8e538f1896afac948a7a7e2045eb74fc: 21300000
+    - 3f0363b8f5fda7f43ad05ecf3ef29d91: 21300000
+    - c59bdc99eb355664eb381407620a45af: 21300000
+    - 5e7a8d3ab5b47314baa3561accbbcf8f: 21300000
+    - ef0bac9a63dceb34baa1f58720522300: 21300000
+    - 271d96bac99ddf0468b9d70600576b92: 21300000
+    - 5bb65a4bea12a2b4abbed7e448c72e7f: 21300000
+    - 5499057b5658bde48aeb7203f84501de: 21300000
+    - 7041228bbcfb13e4297e62a8ecd580a8: 21300000
+    - 14597b1cd46d40f4ca425d7ddf65715c: 21300000
+    - 47a9946c79869db45b25d6786b47e09d: 21300000
+    - 1f03259dcda3eb1478d8866d1cefe644: 21300000
+    - 49d626bd536f8224c9fd99c33cb73e16: 21300000
+    - 7e28f5ee3386c624abacabbd4f3086ba: 21300000
+    - 0c63482ff13131047a8844f110c3bc56: 21300000
+    - d405503f15934834a8fedcba74591c2b: 21300000
+    - 9e2ad86f7b63cdf4aa07e9bf34139a3b: 21300000
+    - d901b07f6d3d0464c9b442d863f5d768: 21300000
+    - 19dbe49f7b042c649b0ec152b7e89d20: 21300000
+    - 335451cf9996b4a4b83f4736a98e6b71: 21300000
+    - 95fa35ef4bdb54546aa6496f67e9a871: 21300000
+    - 3828f4ff80278e64db030d57968c8c1c: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e4338bc0e2a841642ab00d01e2bf0dd9, type: 3}
+  - {fileID: 21300000, guid: 21b17ac24bb871741a8d541bd08b5348, type: 3}
+  - {fileID: 21300000, guid: 09f2bb63ff112644882fd855e05239a0, type: 3}
+  - {fileID: 21300000, guid: 5596108346d953546a89cbccab5c20fe, type: 3}
+  - {fileID: 21300000, guid: afa919c3de8607548a011cfda596d70b, type: 3}
+  - {fileID: 21300000, guid: 15cbcf04d259c6e4a9041227045885fa, type: 3}
+  - {fileID: 21300000, guid: 9a8a0f656da9d024184b0f5a5227f8e2, type: 3}
+  - {fileID: 21300000, guid: 8836e1760a9e1c2499b8e8fc169f231e, type: 3}
+  - {fileID: 21300000, guid: 9df058a60bae4c648bdc51ac03c8b096, type: 3}
+  - {fileID: 21300000, guid: a3f1c6d6bc1bbbd4b952942b9c1de392, type: 3}
+  - {fileID: 21300000, guid: 8cbe6a978c1555e42969d3804b022500, type: 3}
+  - {fileID: 21300000, guid: 6e953db78c47d4f47a6eb083b10b51ff, type: 3}
+  - {fileID: 21300000, guid: 8e538f1896afac948a7a7e2045eb74fc, type: 3}
+  - {fileID: 21300000, guid: 3f0363b8f5fda7f43ad05ecf3ef29d91, type: 3}
+  - {fileID: 21300000, guid: c59bdc99eb355664eb381407620a45af, type: 3}
+  - {fileID: 21300000, guid: 5e7a8d3ab5b47314baa3561accbbcf8f, type: 3}
+  - {fileID: 21300000, guid: ef0bac9a63dceb34baa1f58720522300, type: 3}
+  - {fileID: 21300000, guid: 271d96bac99ddf0468b9d70600576b92, type: 3}
+  - {fileID: 21300000, guid: 5bb65a4bea12a2b4abbed7e448c72e7f, type: 3}
+  - {fileID: 21300000, guid: 5499057b5658bde48aeb7203f84501de, type: 3}
+  - {fileID: 21300000, guid: 7041228bbcfb13e4297e62a8ecd580a8, type: 3}
+  - {fileID: 21300000, guid: 14597b1cd46d40f4ca425d7ddf65715c, type: 3}
+  - {fileID: 21300000, guid: 47a9946c79869db45b25d6786b47e09d, type: 3}
+  - {fileID: 21300000, guid: 1f03259dcda3eb1478d8866d1cefe644, type: 3}
+  - {fileID: 21300000, guid: 49d626bd536f8224c9fd99c33cb73e16, type: 3}
+  - {fileID: 21300000, guid: 7e28f5ee3386c624abacabbd4f3086ba, type: 3}
+  - {fileID: 21300000, guid: 0c63482ff13131047a8844f110c3bc56, type: 3}
+  - {fileID: 21300000, guid: d405503f15934834a8fedcba74591c2b, type: 3}
+  - {fileID: 21300000, guid: 9e2ad86f7b63cdf4aa07e9bf34139a3b, type: 3}
+  - {fileID: 21300000, guid: d901b07f6d3d0464c9b442d863f5d768, type: 3}
+  - {fileID: 21300000, guid: 19dbe49f7b042c649b0ec152b7e89d20, type: 3}
+  - {fileID: 21300000, guid: 335451cf9996b4a4b83f4736a98e6b71, type: 3}
+  - {fileID: 21300000, guid: 95fa35ef4bdb54546aa6496f67e9a871, type: 3}
+  - {fileID: 21300000, guid: 3828f4ff80278e64db030d57968c8c1c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - banner_lose
+  - btn_yes
+  - Are_Yo_ Sure
+  - ic_haptics
+  - 2box
+  - bg_level
+  - popup
+  - btn_no
+  - ic_music
+  - btn_close
+  - ui_setting_bg_soung
+  - bigbox
+  - flag_lose
+  - ui_gameplay_btn_setting
+  - iconlose
+  - ui_setting_bg_soung_on
+  - banner_win
+  - unlock
+  - bg_text
+  - btn_play
+  - ic_win
+  - iconwin
+  - light_yellow
+  - ic_lose
+  - popup_nf
+  - SETTING
+  - bg_level 1
+  - ic_sound
+  - btn_retry
+  - ui_gameplay_btn_replay
+  - mysterybox
+  - flag
+  - ui_setting_btn_control_on
+  - starbox
+  m_RenderDataMap: {}
+  m_Tag: UIAtlats
+  m_IsVariant: 0
