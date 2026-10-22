@@ -1,0 +1,510 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f618c35397d28e40a67d0afbc5511bb, type: 3}
+  m_Name: Level 9
+  m_EditorClassIdentifier: 
+  rows: 11
+  columns: 10
+  boxRows: 3
+  boxColumns: 3
+  connectId: 5
+  cells:
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  cars:
+  - color: 3
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 0
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 0
+    starId: 2
+  boxs:
+  - color: 0
+    boxType: 0
+    connectId: 5
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 5
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 5
+    starId: 2
+  - color: 0
+    boxType: 2
+    connectId: 5
+    starId: 2
+  - color: 3
+    boxType: 0
+    connectId: 5
+    starId: 2
+  - color: 3
+    boxType: 2
+    connectId: 5
+    starId: 2
+  - color: 0
+    boxType: 0
+    connectId: 5
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 5
+    starId: 2
+  - color: 1
+    boxType: 0
+    connectId: 5
+    starId: 2
