@@ -60,7 +60,7 @@ Assets/
 1. Cài **Unity Hub** và Unity **2022.3.62f2** (kèm module *Android Build Support*).
 2. Clone repo:
    ```bash
-   git clone https://github.com/dungvd399/FlowerSort3D.git
+   git clone https://github.com/dungvd399/doancoso.git
    ```
 3. Mở thư mục project bằng Unity Hub (Add → chọn thư mục vừa clone).
 4. Mở scene `Assets/Scenes/Gameplay.unity` và bấm **Play**.
